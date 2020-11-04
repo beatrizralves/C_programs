@@ -1,3 +1,4 @@
+//author:Beatriz Ressurreição Alves
 #include<stdio.h>
  main(){
  	int minutos=0;
