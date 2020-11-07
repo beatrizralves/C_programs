@@ -15,3 +15,7 @@ https://github.com/beatrizralves/C_programs/blob/main/verificar_nm.c
 **Estrutura inicial de um programa:**
 
 https://github.com/beatrizralves/C_programs/blob/main/novo.c
+
+**Programa simples que escreve uma mensagem na tela:**
+
+https://github.com/beatrizralves/C_programs/blob/main/Hello%20World.c
