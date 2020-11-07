@@ -12,6 +12,6 @@ https://github.com/beatrizralves/C_programs/blob/main/Media%20secundario.c
 
 https://github.com/beatrizralves/C_programs/blob/main/verificar_nm.c
 
-**Estrutura inicial de um programa**
+**Estrutura inicial de um programa:**
 
 https://github.com/beatrizralves/C_programs/blob/main/novo.c
