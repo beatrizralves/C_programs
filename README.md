@@ -26,7 +26,7 @@ https://github.com/beatrizralves/C_programs/blob/main/Algarismos
 
 **Programa que imprime os 4 carateres seguintes da tabela de ASCII :**
 
-
+https://github.com/beatrizralves/C_programs/blob/main/tabela%20de%20ascii%201.c
 
 
 
