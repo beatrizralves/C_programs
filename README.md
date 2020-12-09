@@ -19,3 +19,17 @@ https://github.com/beatrizralves/C_programs/blob/main/novo.c
 **Programa simples que escreve uma mensagem na tela:**
 
 https://github.com/beatrizralves/C_programs/blob/main/Hello%20World.c
+
+**Programa que indica quantos algarismos tem o numero que o utilizador digitou :**
+
+https://github.com/beatrizralves/C_programs/blob/main/Algarismos
+
+**Programa que imprime os 4 carateres seguintes da tabela de ASCII :**
+
+
+
+
+
+
+
+
