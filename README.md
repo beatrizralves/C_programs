@@ -42,3 +42,18 @@ https://github.com/beatrizralves/C_programs/blob/main/numero_maior_funcoes.c
 
 https://github.com/beatrizralves/C_programs/blob/main/Fibonacci.c
 
+**Programa que pede dois numeros ao utilizador, calcula o dobro de cada nuemro e efetua tambem a soma dos dois nuemros  :**
+
+https://github.com/beatrizralves/C_programs/blob/main/Funcoes%201.c
+
+**Programa que calcula o simetrico de um número  :**
+
+https://github.com/beatrizralves/C_programs/blob/main/funcoes2b.c
+
+**Programa que imprime os n caracteres seguintes de a (a e n sao pedidos ao utilizador) (TABELA DE ASCII):**
+
+https://github.com/beatrizralves/C_programs/blob/main/Funcoes2c.c
+
+**Programa que calcula o fatorial de n  :**
+
+https://github.com/beatrizralves/C_programs/blob/main/Funcoes2d.c
