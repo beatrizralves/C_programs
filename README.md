@@ -57,3 +57,7 @@ https://github.com/beatrizralves/C_programs/blob/main/Funcoes2c.c
 **Programa que calcula o fatorial de n  :**
 
 https://github.com/beatrizralves/C_programs/blob/main/Funcoes2d.c
+
+**Programa que pede os	salários	mensais	de	um	trabalhador	ao	longo	do ano,	armazenando	os	valores	num	vector, no fim calcula o que foi ganho no ano  :**
+
+https://github.com/beatrizralves/C_programs/blob/main/vetores3.c
