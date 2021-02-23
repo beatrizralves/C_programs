@@ -61,3 +61,24 @@ https://github.com/beatrizralves/C_programs/blob/main/Funcoes2d.c
 **Programa que pede os	salários	mensais	de	um	trabalhador	ao	longo	do ano,	armazenando	os	valores	num	vector, no fim calcula o que foi ganho no ano  :**
 
 https://github.com/beatrizralves/C_programs/blob/main/vetores3.c
+
+ **Programa que le uma sequência de números inteiros terminada com o número 0 e imprime no ecrã a soma dos
+números lidos:**
+
+https://github.com/beatrizralves/C_programs/blob/main/1.c
+
+**Programa que le uma sequência de números inteiros terminada com o número 0 e imprime no ecrã o maior elemento
+da sequência:**
+
+https://github.com/beatrizralves/C_programs/blob/main/2.c
+
+**Programa que le uma sequência de números inteiros terminada com o número 0 e imprime no ecrã a média da
+sequência:**
+
+https://github.com/beatrizralves/C_programs/blob/main/3.c
+
+**Programa que le uma sequência de números inteiros terminada com o número 0 e imprime no ecrã o segundo maior elemento
+da sequência:**
+
+https://github.com/beatrizralves/C_programs/blob/main/4.c
+
