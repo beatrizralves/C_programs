@@ -1,4 +1,4 @@
-# C_programs
+# C_Programs
 
 **Programa que converte minutos em dias,	horas	e	minutos:**
 
